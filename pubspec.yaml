@@ -1,0 +1,18 @@
+name: persian_ui
+description: "A reusable Flutter UI component library with Persian and RTL-friendly interface components."
+version: 0.0.1
+
+environment:
+  sdk: ^3.13.4
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
